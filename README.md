@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GSGSDgggdzez
+- 👋 Hi, I’m Defree harold
 - 👀 I’m interested in finding a job
 - 🌱 I’m currently learning Laravel and JS and MYSQL 
 - 💞️ I’m looking to collaborate on project 
